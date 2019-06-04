@@ -18,3 +18,10 @@ average_daily_revenue = total_revenue/7
 print(average_daily_revenue)
 cuts_under_30 = [hairstyles[i] for i in range(len(hairstyles)-1) if prices[i] < 30 ]
 print(cuts_under_30)
+
+#prints
+#Average Haircut Price: 31.875
+#new prices [25, 20, 35, 15, 15, 30, 45, 30]
+#Total revenue: 1085
+#average daily revenue 155.0
+#cuts under 30: ['pixie', 'crew', 'bowl']
