@@ -178,3 +178,11 @@ for color in colors:
   print(sold_today(color, color_count(color) ))
 
 # easypeasy
+# prints :
+#The shop sold 24 threads of red thread today.
+#The shop sold 34 threads of yellow thread today.
+#The shop sold 30 threads of green thread today.
+#The shop sold 28 threads of white thread today.
+#The shop sold 26 threads of black thread today.
+#The shop sold 22 threads of blue thread today.
+#The shop sold 17 threads of purple thread today.
