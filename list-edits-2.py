@@ -177,4 +177,4 @@ def sold_today(color, quantity):
 for color in colors:
   print(sold_today(color, color_count(color) ))
 
-# easypeasy :)
+# easypeasy
