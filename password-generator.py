@@ -15,3 +15,6 @@ def password_generator(user_name):
     for i in range(0, len(user_name)):
         password += user_name[i-1]
     return password
+
+# generates temporary username and password
+# (generated from input)
