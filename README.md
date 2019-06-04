@@ -1,4 +1,6 @@
-# hello-world
-Just a first repo
 
-So I might start doing something
+
+# hello-world
+First repo with some not-very-useful-stuff
+
+
